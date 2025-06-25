@@ -93,8 +93,9 @@
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sercanKudret&repo=proje1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/sercanKudret/proje1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sercanKudret&repo=proje2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/sercanKudret/proje2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sercanKudret&repo=Robotic-Arm-Simulation-with-Image-Based-Location-Detection&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/sercanKudret/Robotic-Arm-Simulation-with-Image-Based-Location-Detection)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sercanKudret&repo=Multilingual-Translation-Quiz-App-with-Google-ML-Kit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/sercanKudret/Multilingual-Translation-Quiz-App-with-Google-ML-Kit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sercanKudret&repo=Memory-Chase-Game-with-8x8-LED-Matrix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/sercanKudret/Memory-Chase-Game-with-8x8-LED-Matrix)
 
 </div>
 
@@ -118,14 +119,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## 📈 Aktivite Grafiği
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sercanKudret&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
-</div>
 
 ---
 
@@ -160,8 +153,9 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sercanKudret&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2x3dzNpeW41YjAyenFwZHY1NmtwazZrMWdobDl2OG91aXJtd2Z2eCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YQGjPWHrQNKJOr9c1G/giphy.gif" width="80">
 </div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
