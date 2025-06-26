@@ -12,39 +12,6 @@
 
 ---
 
-## 🎯 Hakkımda
-
-<div align="center">
-<table>
-<tr>
-<td align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2NvY244ZHI4c2lrbjZnYTRzeDVjMzMwN3dzdXVtOG5jaXQ0eDRqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6vj5quVNRhoQw/giphy.gif" width="50"></td>
-<td><strong>👨‍💻 İsim:</strong> Sercan</td>
-</tr>
-<tr>
-<td align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></td>
-<td><strong>📍 Konum:</strong> Türkiye 🇹🇷</td>
-</tr>
-<tr>
-<td align="center"><img src="https://media.giphy.com/media/S8uzeu9PRfQty/giphy.gif" width="50"></td>
-<td><strong>🗣️ Diller:</strong> Türkçe | İngilizce</td>
-</tr>
-<tr>
-<td align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"></td>
-<td><strong>🎯 Odak:</strong> Düşünmek, Üretmek ve Geliştirmek</td>
-</tr>
-<tr>
-<td align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"></td>
-<td><strong>💭 Motto:</strong> Hallederiz</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sercanKudret&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</div>
-
----
-
 ## 🛠️ Teknoloji Yığınım
 
 <div align="center">
