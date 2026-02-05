@@ -1,74 +1,44 @@
-# Hi, I'm Sercan 👋  
-### Robotics • Embedded Systems • Mobile • Game • Web Developer
+# Sercan Kudret
+**Software Engineer | Robotic & Embedded Systems | Full-Stack Developer**
 
-I am a software developer focused on **Robotics, Simulation, Mobile Applications and Backend Systems**.  
-I enjoy building real-world engineering solutions combining **software + hardware + mathematics**.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-C • C++ • C# • Python • Kotlin • JavaScript • TypeScript
-
-### Mobile
-React Native • Kotlin • Android SDK
-
-### Web & Backend
-ASP.NET Core • .NET • RESTful APIs • Node.js • React
-
-### Game Development
-Unity (C#) • 2D/3D Game Mechanics • Physics System
-
-### Robotics & Simulation
-MuJoCo • Inverse/Forward Kinematics • Motion Planning • Computer Vision • OpenCV
-
-### Databases
-PostgreSQL • MS SQL • MongoDB • MySQL
-
-### Tools
-Git • GitHub • Docker • Postman • Linux • VS Code • Android Studio
-
-### Methodologies & Architecture
-Agile/Scrum • OOP • SOLID • Clean Architecture • Design Patterns • Layered Architecture
+Mühendislik prensiplerini modern yazılım mimarileriyle birleştiren, robotik sistemlerden mobil uygulamalara uzanan geniş bir yelpazede çözümler üretiyorum. Odak noktam; temiz kod (clean code), sürdürülebilir mimari ve yüksek performanslı sistemler geliştirmektir.
 
 ---
 
-## 🚀 Featured Projects
+### 🛠 Teknik Yetkinlikler
 
-### 🤖 Vision-Based 5DOF Robotic Arm (Graduation Project)
-- MuJoCo robotic arm simulation
-- Inverse kinematics for precise positioning
-- Computer vision based object detection
-- Real-time motion control
+**Gömülü Sistemler & Robotik**
+* Robotik Kol Kinematiği (4, 5, 6 DOF), Ters/İleri Kinematik (IK/FK)
+* C, C++, Gömülü Yazılım Geliştirme
 
-🔗 https://github.com/sercanKudret/Robotic-Arm-Simulation-with-Image-Based-Location-Detection
+**Mobil & Oyun Geliştirme**
+* **Mobile:** React Native (TypeScript), Kotlin (Android Native)
+* **Game:** Unity 3D, C#, Godot
 
----
+**Web & Backend**
+* **Frontend:** React, JavaScript, HTML5, CSS3
+* **Backend:** .NET Core, C#, Python
+* **Veritabanı:** PostgreSQL, MongoDB, MySQL
 
-### 📱 Multilingual Translation Quiz App
-- React Native mobile application
-- Google ML Kit integration
-- Real-time translation & quiz system
-
-🔗 https://github.com/sercanKudret/Multilingual-Translation-Quiz-App-with-Google-ML-Kit
-
----
-
-### 🎮 Unity Mobile Game (Internship)
-- Developed mobile games using Unity & C#
-- Implemented gameplay mechanics and UI systems
-- Performance optimization for Android
+**Araçlar & Metodolojiler**
+* Git, GitHub, Docker, VS Code, Blender (3D Modelleme), SOLID Prensipleri
 
 ---
 
-## 📊 GitHub Stats
+### 📂 Seçilmiş Projeler
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercanKudret&layout=compact)
+* **Robotic Arm Simulation** Görüntü tabanlı konum tespiti ve ters kinematik algoritmaları ile endüstriyel robot kolu simülasyonu.
+    
+* **Multilingual Translation Quiz** Google ML Kit entegrasyonu ile geliştirilmiş, performans odaklı mobil dil öğrenme uygulaması.
+    
+* **Memory Chase System** 8x8 LED matris üzerinde, düşük seviyeli donanım kontrolü ile geliştirilmiş gömülü sistem projesi.
 
 ---
 
-## 📫 Contact
+### 📫 İletişim
 
-LinkedIn: https://www.linkedin.com/in/sercan-kudret-342126261/  
-Email: kudret.srcn@gmail.com
+* **E-posta:** [kudret.srcn@gmail.com](mailto:kudret.srcn@gmail.com)
+* **LinkedIn:** [linkedin.com/in/sercan-kudret](https://www.linkedin.com/in/sercan-kudret-342126261/)
+* **Çalışma Alanları:** Robotik simülasyonlar, karmaşık mobil UI mimarileri ve profesyonel yazılım tasarımı (SOLID, Design Patterns).
+
+---
